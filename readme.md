@@ -40,4 +40,4 @@ status      : ● Building
 
 
 
-<div align="center"> <img src="https://skillicons.dev/icons?i=aws,terraform,ansible,docker,kubernetes,linux" /> </div>
+
